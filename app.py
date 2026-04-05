@@ -34,7 +34,7 @@ from reportlab.platypus import (
 from reportlab.platypus.flowables import KeepTogether
 
 # ----------------- CONFIG (Google Sheets) -----------------
-SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1aIyU2hPQHCUgvd-Jtp4pV6sxsqff5uouysdjjpKX8Qg/edit?gid=0#gid=0"
+SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1l8m_sh2B0owApo2mSej7vFKTpgk4ovwouWbLIz3iGzE/edit?gid=0#gid=0"
 
 WS_PARETOS = "Paretos"
 
@@ -63,7 +63,6 @@ plt.rcParams.update({
     "axes.grid": True,
     "grid.alpha": 0.25,
 })
-
 # ============================================================================
 # ============================== PARTE 2/12 =================================
 # =========================== Catálogo desde Excel ===========================
